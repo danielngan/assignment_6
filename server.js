@@ -8,7 +8,7 @@
  *
  * Name: Yi Ching Daniel Ngan   Student ID: 117044248 Date: December 6, 2024
  *
- * Published URL: https://web700-a5-2.vercel.app/
+ * Published URL: https://assignment-6-seven-opal.vercel.app/
  ********************************************************************************/
 
 const LegoData = require("./modules/legoSets");
